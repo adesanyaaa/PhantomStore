@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phantom Store</string>
+    <string name="error_loading_website_site">Error loading website site</string>
+    <string name="product_image">Product image</string>
+    <string name="title">Title</string>
+    <string name="category">Category</string>
+    <string name="price">Price</string>
+    <string name="description">Description</string>
+</resources>
